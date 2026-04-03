@@ -1,8 +1,13 @@
-# Custom WordPress Theme with ACF
-
-Custom theme using ACF for dynamic homepage.
+# Professional WordPress Theme Upgrade
 
 ## Features
-- Dynamic fields (ACF)
-- Clean structure
-- Responsive ready
+- Custom Post Type (Portfolio)
+- REST API Endpoint
+- ACF JSON Sync
+- Clean Structure (inc, template-parts)
+- Reusable Components
+
+## Projects
+https://ves-mena.com/
+https://chefstouch.tech/
+https://www.softesta.com/
